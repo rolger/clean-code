@@ -41,7 +41,7 @@
 			<version>1.5.2</version><!--$NO-MVN-MAN-VER$ -->
 			<scope>test</scope>
 		</dependency>
-		
+
 		<dependency>
 			<groupId>org.assertj</groupId>
 			<artifactId>assertj-core</artifactId>
@@ -53,6 +53,12 @@
 			<artifactId>assertj-core</artifactId>
 			<version>3.12.2</version>
 			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>org.mongodb.morphia</groupId>
+			<artifactId>morphia</artifactId>
+			<version>0.108</version>
 		</dependency>
 	</dependencies>
 
